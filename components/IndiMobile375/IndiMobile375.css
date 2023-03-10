@@ -1,0 +1,9 @@
+.indi-mobile-375 {
+  background-color: var(--log-cabin);
+  display: flex;
+  min-height: 2396px;
+  min-width: 375px;
+  position: relative;
+  width: 100%;
+}
+

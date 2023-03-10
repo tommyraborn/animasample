@@ -1,0 +1,11 @@
+.indi-desktop-1440 {
+  background-color: var(--log-cabin);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 2492px;
+  min-width: 1440px;
+  position: relative;
+  width: 100%;
+}
+

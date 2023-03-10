@@ -1,0 +1,11 @@
+.indi-tablet-768 {
+  background-color: var(--log-cabin);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 2236px;
+  min-width: 768px;
+  position: relative;
+  width: 100%;
+}
+
